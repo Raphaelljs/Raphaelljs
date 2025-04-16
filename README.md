@@ -7,7 +7,7 @@
 
 ![QLIK](https://img.shields.io/badge/Qlik-green?style=for-the-badge&logo=qlik)
 ![TASY](https://img.shields.io/badge/TASY-blue?style=for-the-badge&logo=phillips)
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=oracle&logoColor=black)
+![SQL-PL/SQL](https://img.shields.io/badge/SQL--PL/SQL-red?style=for-the-badge&logo=oracle&logoColor=black)
 ![API REST](https://img.shields.io/badge/API_REST-lightblue?style=for-the-badge&logo=apirest&logoColor=yellow)
 ![Json](https://img.shields.io/badge/Json-orange?style=for-the-badge&logo=json&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
