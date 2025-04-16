@@ -13,8 +13,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphaelljs&show_icons=true&theme=dark&title_color=ff6600&text_color=ffffff&icon_color=ff6600&bg_color=000000)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphaelljs&show_icons=true&theme=dark&title_color=00FF00&text_color=E5FFCC&icon_color=00FF00&bg_color=000000)
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raphaelljs&repo=dio-lab-open-source&bg_color=000000&border_color=black&show_icons=true&icon_color=ff6600&title_color=ff6600&text_color=black)](https://github.com//dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Raphaelljs&repo=dio-lab-open-source&bg_color=000000&border_color=black&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=CCFFCC)](https://github.com//dio-lab-open-source)
